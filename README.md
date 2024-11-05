@@ -4,7 +4,7 @@
 
 <h2>Features</h2>
 <ul>
-    <li>Upload invoices in various formats</li>
+    <li>Upload invoice in PDF format</li>
     <li>Extract vendor name, invoice amount, date, and invoice number from invoices</li>
     <li>User-friendly interface with Streamlit</li>
     <li>Fast and efficient API using FastAPI</li>
